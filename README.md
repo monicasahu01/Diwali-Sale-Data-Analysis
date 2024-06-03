@@ -32,9 +32,13 @@ Example Diwali Sale Data Analysis
 Suppose we have the following data:
 
 Sales transactions from the Diwali sale period
+
 Customer demographics
+
 Product details
+
 Marketing campaign data
+
 Website traffic data
 
 2. Data Cleaning
@@ -42,16 +46,23 @@ Handle missing values in customer demographics.
 Ensure consistent formatting of dates and numerical values.
 
 4. Exploratory Data Analysis (EDA)
+   
 Total Sales Distribution: Plot a histogram of daily sales.
 Customer Age Distribution: Create a box plot of customer ages.
 
 6. Analysis of Key Metrics
 Total Sales: ₹10,000,000
+
 Number of Transactions: 15,000
+
 Average Order Value (AOV): ₹666.67
+
 Top Product Categories: Electronics, Apparel, Home Decor
+
 Sales by Region: North: ₹4,000,000, South: ₹3,000,000, East: ₹2,000,000, West: ₹1,000,000
+
 Marketing Channels:
+
 Google Ads: ₹3,000,000
 Social Media: ₹2,500,000
 Email Marketing: ₹1,500,000
